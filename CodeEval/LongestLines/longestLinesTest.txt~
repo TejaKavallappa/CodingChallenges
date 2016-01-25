@@ -1,0 +1,8 @@
+3
+Hello World
+CodeEval
+Quick Fox
+A
+San Francisco
+Normally, I really dislike short variable names. In this case it's ok for A, B, and K, because they are part of the question. But if you do use the same variable names as in the question, you should probably do it consistently: cases should be T.
+For the other variable names, you have no excuses: temp isn't a good name, and caseNum vs cases is also somewhat confusing. The worst is probably k, as you already have K.

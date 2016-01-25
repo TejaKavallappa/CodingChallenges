@@ -1,0 +1,11 @@
+filename = "test_string_list.txt"
+
+with open(filename) as f:
+    for test in f:
+        test = test.rstrip()
+        if test == "":
+            continue
+        print test
+        test = test.split(',')
+        length = int(test[0])
+        print length **len(set(test[1]))

@@ -1,0 +1,8 @@
+import random
+
+filename = "numbersRand.txt"
+with open(filename, "w") as f:
+    for i in xrange(20):
+        f.write(random.randrange(0,10001))
+        f.write(random.randrange(10001, 1000000001))
+f.close()

@@ -1,0 +1,23 @@
+20; (80.185393420699995, 7.5700396347199996)
+70; (96.289565663600001, 4.0044008079599998)
+104; (81.248801222200001, 6.9969346401000001)
+109; (91.749331671700006, -45.076379662400001)
+30; (94.869214015699995, 6.88490311276)
+957; (90.868320001100003, 4.6474993921300003)
+2247; (90.047924839100006, -44.948920334)
+1569; (104.885163013, 8.2818301346700007)
+1783; (92.185671690600003, -43.856835739499999)
+150; (95.117355207599999, 7.2758235364599999)
+    <Placemark id='4889783'>
+        <name>Oil Slick ID 4889783</name><Snippet maxLines='0'></Snippet>
+        <type>Oil Slick</type>
+        <description><![CDATA[
+            <img src='https://s3.amazonaws.com/explorationlab/chips/08458a6f42a780af66c05d0ef1385558.jpg' height=400 width=400><br/>
+            <table width=400><tr><td width=40%>CrowdRank: <b>100%</b><br/>Confirmation: <b>2</b> people<br/>
+            <td align='right' valign='bottom'>Image © DigitalGlobe 2014<br><br><a href='http://tomnod.com/nod/challenge/mh370_indian_ocean/map/983378'>See this point on <img src='http://www.tomnod.com/nod/images/logo_small.png' width=100></a>
+        </tr</table>
+        ]]></description>
+        <styleUrl>#tag_type_130</styleUrl>
+        <TimeStamp><when>2014-03-27 18:14:25.234888</when></TimeStamp>
+        <Point><coordinates>79.834979564799994,6.97011026235</coordinates></Point>
+    </Placemark>
